@@ -8,7 +8,7 @@
             "weights": [
                 {
                     "weight": 1000.0,
-                    "spool_weight": 155.0
+                    "spool_weight": 155.0,
                     "spool_type": "cardboard"
                 }
             ],
@@ -344,4 +344,5 @@
         }
     ]
 }
+
 
